@@ -18,5 +18,5 @@ To run this project, you'll need to have the following installed:
 Match Time ⏰
 Teams 🏃‍♂️
 Match Score 🏟️
---> Save to CSV: Once the data is extracted, it is organized into a table and saved as a .csv file using pandas.
+--> Save to CSV: Once the data is extracted, it is organized into a table and saved as a .csv file .
 
